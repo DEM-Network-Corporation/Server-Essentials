@@ -1,2 +1,2 @@
 # Server Essentials
-A Datapack That Adds Some Essential Tools
+A Datapack That Adds Some Essential Moderation Tools
